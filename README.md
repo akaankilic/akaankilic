@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akaankilic
+- 👋 Hi, I’m Adil Kaan
 - 👀 I’m interested in Back-end Dev
 - 🌱 I’m currently learning C#,Python,.Net
 - 📫 How to reach me akaankilic@icloud.com
