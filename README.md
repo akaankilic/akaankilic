@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adil Kaan
 - 👀 I’m interested in Back-end Dev
-- 🌱 I’m currently learning C#,Python,.Net
+- 🌱 I’m currently learning C#,Python,.Net,Java
 - 📫 How to reach me akaankilic@icloud.com
 - - 💞️ I’m looking to collaborate on ...
 
